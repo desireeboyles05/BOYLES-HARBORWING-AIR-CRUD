@@ -9,7 +9,7 @@ This project is the **continuation of the HarborWing Air Midterm Drill**. The Mi
 - Does not create a separate or unrelated database.
 - If the database schema must be changed, update the Midterm SQL scripts and Workbench EER diagram as required by the assignment.
 
-**Midterm Drill GitHub repository:** `ADD_YOUR_MIDTERM_GITHUB_URL_HERE`
+**Midterm Drill GitHub repository:** `https://github.com/desireeboyles05/HarborWing-Air.git`
 
 Before submitting, replace the placeholder above with the actual URL of your Midterm Drill repository. Make sure the Midterm repository's README also links to this CRUD repository.
 
